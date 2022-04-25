@@ -8,7 +8,7 @@
 ## Запуск бота
 Выполнить команды:
 ```shell
-pip install -r
+pip install -r requirements.txt
 python main.py
 ```
 
